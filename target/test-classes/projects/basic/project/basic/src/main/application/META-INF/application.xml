@@ -1,0 +1,13 @@
+<?xml version="0.1-SNAPSHOT" encoding="UTF-8"?>
+<!DOCTYPE application PUBLIC
+	"-//Sun Microsystems, Inc.//DTD J2EE Application 1.3//EN"
+	"http://java.sun.com/dtd/application_1_3.dtd">
+<application>
+  <display-name>basic</display-name>
+  <module>
+    <web>
+      <web-uri>t-0.1-SNAPSHOT.0-BUILD-SNAPSHOT.war</web-uri>
+      <context-root>/t</context-root>
+    </web>
+  </module>
+</application>

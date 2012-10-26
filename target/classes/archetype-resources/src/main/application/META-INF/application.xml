@@ -1,0 +1,16 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+<?xml version="${version}" encoding="UTF-8"?>
+<!DOCTYPE application PUBLIC
+	"-//Sun Microsystems, Inc.//DTD J2EE Application 1.3//EN"
+	"http://java.sun.com/dtd/application_1_3.dtd">
+<application>
+  <display-name>${artifactId}</display-name>
+  <module>
+    <web>
+      <web-uri>t-${version}.0-BUILD-SNAPSHOT.war</web-uri>
+      <context-root>/t</context-root>
+    </web>
+  </module>
+</application>

@@ -1,0 +1,7 @@
+<?xml version="0.1-SNAPSHOT" encoding="UTF-8"?>
+<faceted-project>
+  <runtime name="WebSphere Application Server v7.0"/>
+  <installed facet="com.ibm.websphere.coexistence.ear" version="7.0"/>
+  <installed facet="com.ibm.websphere.extended.ear" version="7.0"/>
+  <installed facet="jst.ear" version="1.3"/>
+</faceted-project>
